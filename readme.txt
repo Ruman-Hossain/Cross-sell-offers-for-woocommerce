@@ -54,12 +54,12 @@ Built and maintained by **Md Ruman Hossain**, Rangpur, Bangladesh.
 * LinkedIn: https://www.linkedin.com/in/ruman-hossain/
 * WordPress.org: https://profiles.wordpress.org/rumanhossain/
 
-Project: https://github.com/Ruman-Hossain/cross-sell-offers-for-woocommerce
+Project: https://github.com/Ruman-Hossain/Cross-sell-offers-for-woocommerce
 
 == Support ==
 
 Please open an issue on the project's tracker:
-https://github.com/Ruman-Hossain/cross-sell-offers-for-woocommerce/issues
+https://github.com/Ruman-Hossain/Cross-sell-offers-for-woocommerce/issues
 
 == Compatibility ==
 

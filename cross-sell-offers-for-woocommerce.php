@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Cross-Sell Offers for WooCommerce
- * Plugin URI:  https://github.com/Ruman-Hossain/cross-sell-offers-for-woocommerce
+ * Plugin URI:  https://github.com/Ruman-Hossain/Cross-sell-offers-for-woocommerce
  * Description: Offer a second product alongside the one already in the basket. Every pairing is chosen by hand in the settings — nothing is offered automatically. Does nothing at all until enabled.
  * Version:     1.0.0
  * Author:      Md Ruman Hossain
@@ -43,8 +43,8 @@ define( 'CSO_ENABLED', 'cso_enabled' );
 /* Author / project details, in one place. */
 define( 'CSO_AUTHOR', 'Md Ruman Hossain' );
 define( 'CSO_AUTHOR_URL', 'https://rumancsebrur.blogspot.com/' );
-define( 'CSO_PROJECT_URL', 'https://github.com/Ruman-Hossain/cross-sell-offers-for-woocommerce' );
-define( 'CSO_SUPPORT_URL', 'https://github.com/Ruman-Hossain/cross-sell-offers-for-woocommerce/issues' );
+define( 'CSO_PROJECT_URL', 'https://github.com/Ruman-Hossain/Cross-sell-offers-for-woocommerce' );
+define( 'CSO_SUPPORT_URL', 'https://github.com/Ruman-Hossain/Cross-sell-offers-for-woocommerce/issues' );
 
 /** Cart item keys used to mark a line this plugin added. */
 define( 'CSO_ITEM_OFFER', '_cso_offer' );
