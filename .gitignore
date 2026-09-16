@@ -1,0 +1,39 @@
+# Operating system
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# PHP dependencies and tooling caches
+/vendor/
+composer.lock
+.phpunit.result.cache
+.phpcs-cache
+.php-cs-fixer.cache
+
+# Node dependencies and build output
+/node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Build artifacts and release archives
+/build/
+/dist/
+*.zip
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
+# Translation working files (compiled .mo files are committed)
+*.pot~
