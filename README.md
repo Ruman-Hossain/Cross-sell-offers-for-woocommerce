@@ -45,7 +45,9 @@ the plugin steps back permanently — three places with two add-ons works, and s
 does three with five, because someone who already holds the main qualification
 may still want the add-on.
 
-Set an offer's quantity mode to `one` instead, and it always adds a single unit.
+Set an offer's quantity mode to `one` instead and it adds a single unit however
+many places are booked, then leaves that line alone — the customer is free to
+change it. The optional cap and the optional removal with the trigger still apply.
 
 ## Requirements
 

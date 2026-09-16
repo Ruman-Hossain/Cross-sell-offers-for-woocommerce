@@ -32,6 +32,8 @@ different in some.
 * Show the offer on the basket, the checkout, or both
 * Accepted in one place, it stops appearing in the other
 * Add-on quantity matches the booking, and follows it if the booking changes
+* Or set an offer to “always one”, for something bought singly whatever the
+  size of the booking
 * The moment the customer edits the add-on quantity themselves, the plugin
   stops touching that line
 * Optional cap at the number of places booked, and optional removal when the
@@ -44,6 +46,10 @@ to five and the add-on becomes five. Type your own number into the add-on and
 the plugin steps back permanently — three places with two add-ons works, and so
 does three with five, because someone who already holds the main qualification
 may still want the add-on.
+
+An offer set to “always one” adds a single unit however many places are booked,
+and leaves it alone from then on — the customer is free to change it. The
+optional cap and the optional removal with the main course still apply.
 
 == Author ==
 
